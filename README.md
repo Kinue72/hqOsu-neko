@@ -5,6 +5,7 @@ Important :
 - Only works on osu!stable latest version
 - This is unofficial version of hqOsu, cheat won't be updated. Only client compatibility will.
 - This client is **not** blocked on Ainu, you will **not** crash if you used them there.
+- NOTE: Server Switcher ENABLE BY DEFAULT
 
 Extra Addons :
 - Incognito Mode, hides your identity from DiscordRPC and live streams.
