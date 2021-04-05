@@ -1,4 +1,4 @@
-![hello](https://zoo.hololive.wtf/i/1cj59aah.png)
+![hello](https://i.imgur.com/hAkGqrE.jpg)
 # hqOsu-neko
 
 Important :
